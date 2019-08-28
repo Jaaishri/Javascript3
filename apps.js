@@ -17,16 +17,16 @@
 
 
   const imgs = {
-    harry_potter_chamber_secrets: 'imgs1.jpg',
-    one_flew_over_cuckoos_nest: 'imgs2.jpg',
-    pride_and_prejudice: 'imgs3.jpg',
-    the_silence_of_lambs: 'imgs4.jpg',
-    black_cat: 'imgs5.jpg',
-    the_great_fire_of_london: 'imgs6.jpg',
-    bridget_jones_diary: 'imgs7.jpg',
-    sun_also_rises: 'imgs8.jpg',
-    what_if: 'imgs9.jpg',
-    alive: 'imgs10.jpg',
+    harry_potter_chamber_secrets: 'images/imgs1.jpg',
+    one_flew_over_cuckoos_nest: 'images/imgs2.jpg',
+    pride_and_prejudice: 'images/imgs3.jpg',
+    the_silence_of_lambs: 'images/imgs4.jpg',
+    black_cat: 'images/imgs5.jpg',
+    the_great_fire_of_london: 'images/imgs6.jpg',
+    bridget_jones_diary: 'images/imgs7.jpg',
+    sun_also_rises: 'images/imgs8.jpg',
+    what_if: 'images/imgs9.jpg',
+    alive: 'images/imgs10.jpg',
 
   }
 
