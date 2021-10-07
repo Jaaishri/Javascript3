@@ -158,6 +158,9 @@
 
     });
   }
+  const REPO_URL = 'https://api.github.com/orgs/foocoding/repos?per_page=100';
+
+  repoCollect(REPO_URL);
 
   
 }
